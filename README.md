@@ -1,0 +1,4 @@
+mmc
+===
+
+MetaMemoryClass
